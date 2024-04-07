@@ -46,7 +46,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Usage:
 
-[walkthrough](https://github.com/JamieThompson101/Readme/assets/130515437/d0abfa55-56a6-4d06-8814-9f7f504d0d6c)
+[walkthrough](https://github.com/JamieThompson101/Readme/assets/130515437/1404a291-67a5-4588-b5e8-0bce11a1787f)
+
 
 
 ## License:

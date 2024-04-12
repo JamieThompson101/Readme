@@ -46,6 +46,10 @@ THEN I am taken to the corresponding section of the README
 
 ## Usage:
 
+[walkthrough](https://github.com/JamieThompson101/Readme/assets/130515437/1404a291-67a5-4588-b5e8-0bce11a1787f)
+
+
+
 ## License:
 
 This project was licensed under an MIT.
